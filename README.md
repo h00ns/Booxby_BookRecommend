@@ -89,8 +89,7 @@
 # 💻 구현
 
 ### [인트로 화면]
-
-![Uploading intro.gif…]()
+![intro](https://user-images.githubusercontent.com/78480984/136807520-eb7fa23e-1863-42e2-b51f-245dbc317957.gif)
 
 > 주소를 입력하여 Booxby에 접속하면 인트로화면이 나옵니다.
 
