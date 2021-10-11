@@ -97,7 +97,7 @@
 
 ###  [회원가입]
 
-![signup](/uploads/49887bdb90706af10d6506d31bae7f58/signup.gif)
+![signup](https://user-images.githubusercontent.com/78480984/136814270-280adf8f-af90-4325-b42e-8a5ecc0a0a86.gif)
 
 - 회원 정보 입력
 
@@ -114,7 +114,7 @@
 
 <br>
 
-![bookworldcup](/uploads/088fcba316c46a4113c3aee16a2197dc/bookworldcup.gif)
+![bookworldcup](https://user-images.githubusercontent.com/78480984/136814189-7bb5f462-1510-4e27-a83d-85537170f5f5.gif)
 
 - 책 선호도 조사
 
@@ -177,7 +177,7 @@
 
 ### [추천서비스]
 
-![recommendation](/uploads/866132d13fe98a14739ffd19ce53e25d/recommendation.gif)
+![recommendation](https://user-images.githubusercontent.com/78480984/136814214-21ed6aaf-1a06-4503-b4a3-537341126bf2.gif)
 
 > 총 5가지의 추천 서비스를 제공합니다.
 >
@@ -191,9 +191,9 @@
 
 #### ❤찜 기반 책 추천 서비스
 
-![scrap](/uploads/4abf3ab5422ad8bbd027fb3e97b97f7c/scrap.gif)
+![scrap](https://user-images.githubusercontent.com/78480984/136814229-59ca867f-dc05-4eb2-a2b4-37acf22f5f2d.gif)
 
-![scrap-recommendation](/uploads/e603d6821e7a99be06ef511456351805/scrap-recommendation.gif)
+![scrap-recommendation](https://user-images.githubusercontent.com/78480984/136814250-fa892e81-69a7-41e6-a7bf-b788e204fd29.gif)
 
 >  프로그래밍과 주식 관련된 책을 찜하고 
 >
