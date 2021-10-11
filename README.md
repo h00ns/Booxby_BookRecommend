@@ -105,7 +105,8 @@
 
 <br>
 
-![hashtag](/uploads/fb3ce2f57837dba1e4f478863c22d155/hashtag.gif)
+![hashtag](https://user-images.githubusercontent.com/78480984/136812406-f3c3c429-ace6-4c31-91c2-8f5e298a3496.gif)
+
 
 - 해시태그 입력
 
@@ -127,7 +128,7 @@
 
 ### [메인화면]
 
-![main](/uploads/82eb5a2c6fe243d204d8ba1510882eea/main.gif)
+![main](https://user-images.githubusercontent.com/78480984/136812476-d62aa655-65db-4b3a-8b6d-e6fcbdba154e.gif)
 
 > 메인에서는 책 추천 기능, 검색기능을 이용할 수 있습니다.
 >
@@ -137,7 +138,7 @@
 
 ### [책 검색 기능]
 
-![search-func](/uploads/15dfa64797430bdb44d7586550000bac/search-func.gif)
+![search-func](https://user-images.githubusercontent.com/78480984/136812592-7fa44b35-6fb8-417f-9ba6-dade665aa9c7.gif)
 
 > 책 제목과 작가 이름으로 책을 검색할 수 있습니다.
 
@@ -147,24 +148,24 @@
 
 - 자세히 보기를 클릭하면 책의 상세 정보 및 리뷰를 확인할 수 있습니다.
 
-![detail-content](/uploads/112c8528d0b85bbfb6de57b79bb63224/detail-content.gif)
+![detail-content](https://user-images.githubusercontent.com/78480984/136812618-7239c741-d261-4fc8-b0f9-0d66bf12bc3c.gif)
 
 > 책의 상세 정보 - 작가, 책의 감성 색, 책 설명글, 워드 클라우드를 확인할 수 있습니다.
 <br>
 
-![detail-review](/uploads/24e5e47d1e8d3843d77a55626ea18f26/detail-review.gif)
+![detail-review](https://user-images.githubusercontent.com/78480984/136812632-78da09f9-d099-41d3-82a6-94ed2d9f0c66.gif)
 
 > 리뷰를 작성하고 등록된 리뷰도 확인할 수 있습니다.
 
 <br>
 
-![detail-author](/uploads/bb2f1d61ec977b16f93c065c8b5012d0/detail-author.gif)
+![detail-author](https://user-images.githubusercontent.com/78480984/136812651-cb4e7a1b-c4f2-46bf-9b93-072d8d0d4a76.gif)
 
 > 작가의 다른 책도 확인할 수 있습니다.
 
 <br>
 
-![scrap-func](/uploads/8de9839f866b28b75edf99eeb7e79100/scrap-func.gif)
+![scrap-func](https://user-images.githubusercontent.com/78480984/136812676-3396e59a-fb82-420c-a8d8-81bec30b97e0.gif)
 
 > 찜(스크랩) 기능을 통해 관심이 있는 책을 저장할 수 있습니다.
 >
@@ -206,7 +207,7 @@
 
 ### [마이페이지]
 
-![mypage](/uploads/4ad59ef710de4096f1667301b1080b54/mypage.gif)
+![mypage](https://user-images.githubusercontent.com/78480984/136812753-ea825b59-54f0-4b83-bed6-46d830b5cd84.gif)
 
 > 마이페이지에서는 찜(스크랩)한 책과 작성한 리뷰를 확인할 수 있고, 클릭시 해당 책 페이지로 이동합니다.
 >
